@@ -1,26 +1,19 @@
 ---
-title: "Manuscript Title"
+title: "CEE 492 Data Science Project"
 keywords:
   - markdown
   - publishing
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: sharmaravi361
+    name: Ravi Sharma
+    initials: RS
     orcid: XXXX-XXXX-XXXX-XXXX
     twitter: johndoe
-    email: john.doe@something.com
+    email: ravis4@illinois.edu
     affiliations:
-      - Department of Something, University of Whatever
+      - Department of Civil and Env Engineering, University of Illinois Urbana-Champaign
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+ 
